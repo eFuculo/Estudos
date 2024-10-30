@@ -8,5 +8,5 @@
 3. sdafgf
 4. sdfgh
 5. sdfsg
-6. sdfsg
+6. [PASSOS DENTRO DE UM PROJETO A SER DESENVOLVIDO](https://github.com/eFuculo/Estudos/blob/main/Software_engineering/Requirements_engineering/Passos_de_projetos.md#passos-dentro-de-um-projeto-a-ser-desenvolvido)
 
